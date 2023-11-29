@@ -1,3 +1,4 @@
+/** @type {import('next-sitemap').IConfig} */
 const { CONFIG } = require("./site.config")
 
 module.exports = {
