@@ -58,10 +58,10 @@ type Config = {
 export const CONFIG: Config = {
   // profile setting (required)
   profile: {
-    name: "alango",
+    name: "alan go",
     image: "/profile.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "software engineer / usually frontend",
-    bio: "This place is my memory palace.",
+    role: "software engineer / frontend",
+    bio: `this is alan's memory palace.\n(alag = alan's log)`,
     email: "tae.gun7784@gmail.com",
     linkedin: "gtg7784",
     github: "gtg7784",
@@ -76,7 +76,7 @@ export const CONFIG: Config = {
   // blog setting (required)
   blog: {
     title: "alag",
-    description: "welcome! this is alan's memory palace. (alag = alan's log)",
+    description: "this is alan's memory palace. (alag = alan's log)",
   },
 
   // CONFIG configration (required)
